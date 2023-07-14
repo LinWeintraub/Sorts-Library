@@ -21,14 +21,14 @@ The Sorts library provides the following sorting algorithms:
 # Binary Search
 The Sorts library also provides binary search functions:
 
-* **Iterative Binary Search: BinarySearchIter(int *array, size_t length, int value)
-* **Recursive Binary Search: BinarySearchRec(int *array, size_t length, int value)
+* **Iterative Binary Search:** BinarySearchIter(int *array, size_t length, int value)
+* **Recursive Binary Search:** BinarySearchRec(int *array, size_t length, int value)
 
 # Usage
 To use the Sorts library, follow these steps:
 
-1. Include the sorts.h header file in your C program.
-2. Link the sorts.c source file with your program.
+1. Include the ```sorts.h``` header file in your C program.
+2. Link the ```sorts.c``` source file with your program.
 3. Build and compile your program.
 
 For example, to use the Sorts library:
