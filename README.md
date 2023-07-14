@@ -7,7 +7,7 @@ The relevant files for the Sorts library are located in the current directory:
 * **sorts.h:** Header file defining the interface and function prototypes for the sorting algorithms.
 * **sorts.c:** Source file containing the implementation of the sorting algorithms.
 
-#Available Sorting Algorithms
+# Available Sorting Algorithms
 The Sorts library provides the following sorting algorithms:
 
 * **Bubble Sort:** BubbleSort(int *array, size_t length)
